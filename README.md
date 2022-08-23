@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidjss04&show_icons=true&locale=en&layout=compact" alt="davidjss04" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davidjss04&show_icons=true&locale=en" alt="davidjss04" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=davidjss04&show_icons=true&locale=en" alt="davidjss04" /></p>
