@@ -71,11 +71,11 @@
 <p align="center">
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
     <img width="430" align="center"
-      src="https://github-readme-stats.vercel.app/api?username=davidjss04&show_icons=true&theme=highcontrast&count_private=true">
+      src="https://github-readme-stats.vercel.app/api?username=davidjss04&show_icons=true&theme=tokyonight&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
     <img align="center"
-      src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=davidjss04&layout=compact&theme=highcontrast" />
+      src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=davidjss04&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
