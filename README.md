@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
     <img width="430" align="center"
-      src="https://github-readme-stats.vercel.app/api?username=davidjss04&show_icons=true&theme=tokyonight&count_private=true">
+      src="https://github-readme-stats-davidjss04.vercel.app/api?username=davidjss04&show_icons=true&theme=tokyonight&count_private=true">
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
     <img align="center"
