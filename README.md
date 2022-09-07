@@ -1,5 +1,5 @@
 ## <p align="center">️ **Hello!!👋 I'm David** 🎯️🚀️</p>
-<h3 align="center">Software Developer with a bachelor's degree in Computer Engineering, I qualify for being creative and innovative. I enjoy challenges and I consider self-learning the main tool to develop my projects.</h3>
+<h3 align="center">Software Developer with a 🎓 bachelor's degree in Computer Engineering, I qualify for being creative and innovative. I enjoy challenges and I consider self-learning the main tool to develop my projects.</h3>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
