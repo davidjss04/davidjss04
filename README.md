@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.js**
 
-- 👨‍💻 All of my projects are available at [davidjss.com](davidjss.com)
+- 👨‍💻 All of my projects are available at [davidjss.com](https://davidjss.com/)
 
 - 💬 Ask me about **MERN**
 
