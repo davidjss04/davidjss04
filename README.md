@@ -49,22 +49,22 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       align="center"
       style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
     <img
       align="center"
       style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png"
+      alt="nodejs"
       width="40"
       height="40"
     />
@@ -89,6 +89,14 @@
       height="40"
     />
   </a>
+  <a href="www.linux.com" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      style="margin: 10px"
+      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+      alt="Terminal"
+      width="40"
+  /></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -143,26 +151,6 @@
       height="40"
     />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-    <img
-      align="center"
-      style="margin: 10px"
-      src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       align="center"
@@ -173,14 +161,26 @@
       height="40"
     />
   </a>
-  <a href="www.linux.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       align="center"
       style="margin: 10px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-      alt="Terminal"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
       width="40"
-  /></a>
+      height="40"
+    />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      align="center"
+      style="margin: 10px"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
