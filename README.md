@@ -5,6 +5,7 @@
 
 <h3 align="center" >Full Stack Developer with a background as a Computer Engineer. 👨‍💻 Experience working on React, Redux, Material UI, Node.js, PostgreSQL among other technologies in the sector. Be part of a team for the creation of an E-commerce for the sale and purchase of video games, promoting good programming practices and design patterns that allow optimal performance for its positioning on the network. I am characterized by the ability to solve problems, teamwork, creative thinking, communication and autonomy. 👬</h3>
 
+[![wakatime](https://wakatime.com/badge/user/53880a20-8c7f-4e79-9c85-25474df36d17.svg)](https://wakatime.com/@53880a20-8c7f-4e79-9c85-25474df36d17)
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **My personal WEB**
