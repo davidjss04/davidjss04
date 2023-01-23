@@ -6,8 +6,8 @@
 <h3 align="center" >Full Stack Developer with a background as a Computer Engineer. 👨‍💻 Experience working on React, Redux, Material UI, Node.js, PostgreSQL among other technologies in the sector. Be part of a team for the creation of an E-commerce for the sale and purchase of video games, promoting good programming practices and design patterns that allow optimal performance for its positioning on the network. I am characterized by the ability to solve problems, teamwork, creative thinking, communication and autonomy. 👬</h3>
 
 [![wakatime](https://wakatime.com/badge/user/53880a20-8c7f-4e79-9c85-25474df36d17.svg)](https://wakatime.com/@53880a20-8c7f-4e79-9c85-25474df36d17)
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 I’m currently working on **My personal WEB**
 
 - 🌱 I’m currently learning **NEXT.js**
@@ -202,3 +202,7 @@
 <a href="https://linkedin.com/in/davidjss04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidjss04" height="30" width="40" /></a>
 <a href="https://instagram.com/davidjss04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidjss04" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/davidjss04" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
