@@ -192,7 +192,7 @@
   </a>
   <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
     <img align="center"
-      src="https://github-readme-stats-davidjss04.vercel.app/api/top-langs/?username=davidjss04&layout=compact&theme=tokyonight&hide=Java" />
+      src="https://github-readme-stats-davidjss04.vercel.app/api/top-langs/?username=davidjss04&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
